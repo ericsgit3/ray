@@ -1,1 +1,2 @@
 package conf
+go build
